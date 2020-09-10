@@ -1,0 +1,169 @@
+--!<g-gps><s-SportClimb><u-URL><d-Database>
+-Aini Wall(25.80761474034348,56.15667660441432)!g--
+-Al Awabi(Unknown,Unknown)!---
+-Al Hamra Towers(Unknown,Unknown)!---
+-Aldery Cliff(53.194176,-1.855071)!g--
+-Ashwood Dale Ravine(53.2513888888889,-1.89222222222222)-108!gsu
+-Bandar Jissah (Unknown,Unknown)!---
+-Barracuda Stack(26.07268747736464,56.45576278933846)!g--
+-Beerhouse (Devonshire) Buttress(53.250162,-1.881383)!gsu
+-Beeston Tor(53.08384700000001,-1.842772)!g--
+-Bend in the Road(25.74758989913181,56.2779770249487)!g--
+-Birchen(53.245676,-1.583590)-109!g--
+-Blackwell Dale(53.252194,-1.802564)!g--
+-Blackwell Halt(53.252972,-1.83715)!gsu
+-Blue Lagoon - The Bay (Unknown,Unknown)!---
+-Blue Lagoon Quarry(53.089841,-1.580115)-110!g--
+-Blue Yonder(53.086867,-1.581516)!gsu
+-Bowles Rocks(51.076206,0.201984)-111!g--
+-Bradwell Dale Quarry(53.323112,-1.740695) (14.7.18)-112!gsu
+-Brassington Crag (Unknown,Unknown)-113!---
+-Bukha (26.12928901688167, 56.17492560970309)!g--
+-Cascade Circus (25.79581683332735,56.17613574210791)!g--
+-Castle Naze (53.303171,-1.922631)-115!g--
+-Cawdor Quarry (53.140120,-1.572824)!gsu
+-Celestial Wall (25.81750671019516,56.15404209826371)!g--
+-Chee Dale-Blatant Buttress(53.250153,-1.840166)!gsu
+-Chee Dale-Chee Tor(53.256817,-1.815933)-116!gsu
+-Cleavage(25.8912,56.1015)!g--
+-Colehill Quarry(53.091813,-1.571940)!-gsu
+-Commando Slab(Unknown,Unknown)!---
+-Conga Line(25.739301589554,56.29874686867554)!g--
+-Cowdale(53.245571,-1.876236)-117!gsu
+-Crag X (Taddington)(53.233927,-1.752314)-118!gsu
+-Crag on 34th Street(24.41428078580597,54.36888201481322)!g--
+-Crazy Horse Buttress(18.785432,99.237426)-119!g--
+-Cucklett Delph(Unknown,Unknown)-Stoney!---
+-Curbar(53.270435,-1.611287)-!g--
+-Damien’s Boulders(25.70826720067044,56.24766698723882)!g--
+-Darlton (Dalton) Quarry(53.277554,-1.673522)-Stoney-121!gsu
+xxxDarlton (Dalton) Two(53.277649,-1.684647)-Stoney-122!xxx
+-Deep Dale(53.242690,-1.852601)-123!gsu
+-Dhofar(Unknown,Unknown)!---
+-DibbaDWS(Unknown,Unknown)!---
+-Dickinadozer(25.8857,56.1069)!g--
+-Disk World(25.81222129657417,56.04333333333333)!g--
+-Ergonomic Buttress(53.088972,-1.793461)-124!gsu
+-Farside(Unknown,Unknown)!---
+-Five O'Clock Slab(Unknown,Unknown)!---
+-Froggatt(53.281906,-1.625922)-125!g--
+-Gen’s Cave(25.80749884841054,56.36943531774867)!g--
+-Goddards Quarry(53.276877,-1.664500)-Stoney-126!gsu
+-Golden Stack(26.0842497225078,56.42572359707922)!g--
+-Golden Wall(53.279977,-1.679025)-Stoney-127!gsu
+-Greyskull Canyon(25.92610323355265,56.07317405308449)!---
+-Hadash(Unknown,Unknown)!---
+-HallDale (Helicopter) Quarry(53.137544,-1.570113) (updated 11.12.16)-128!gsu
+-Harborough Rocks(53.093005, -1.638353)-129!g--
+-Harpur Hill(53.233286,-1.907669)!gsu
+-Hatta Crag(24.89816937674686,55.93569900544698)!g--
+-Hidden (Darlton Two)Quarry(53.277649,-1.684647)-Stoney-122!gsu
+-High Tor(53.127284,-1.557968)-130!gsu
+-Hilti Crag(Unknown,Unknown)!---
+-Horse Thief Quarry(53.279222, -1.684672)-Stoney-131!gsu
+-Horseshoe Quary(53.282035,-1.688921)-Stoney-!gsu
+-Igor(25.60803682299724,56.14459122293881)!g--
+-Intake (Caretaker) Quarry (53.091314,-1.596076) (updated 27.12.16)-114!gsu
+-Jebel Dhawan(24.26314849195016,56.00042028253953)!g--
+-Jebel Fayah(25.11937532356677,55.84605584207296)!g--
+-Jebel Fokha(Unknown,Unknown)!---
+-Jebel Ghul (Unknown,Unknown)!---
+-Jebel Hafeet Boulders(24.09614217810186,55.77156474723904)!g--
+-Jebel Hila(25.81422377271993,56.11448731988313)!g--
+-Jebel Idhn(25.46937184564116,56.00212917603216)!g--
+-Jebel Kawr(Unknown,Unknown)!---
+-Jebel Misfat Al Abriyeen(Unknown,Unknown)!---
+-Jebel Misht(Unknown,Unknown)!---
+-Jebel M'Saw(Unknown,Unknown)!---
+-Jebel Nakhus(Unknown,Unknown)!---
+-Jebel Umm Bak(24.23008140400026,55.97005078997897)!g--
+-Junction Wall(25.896478,56.141167)!g--
+-Khartoum Al Laf(25.97673452215851,56.13649259677914)!g--
+-Khasab Beach(26.2133,56.2669)!g--
+-Kubrah Canyon (Unknown,Unknown)!---
+-Ladyside Crag(53.095991,-1.858034) (updated 1.9.17)!gsu
+-Limah Rock(25.9420635741938,56.46605828950906)!g--
+-Little Gem Buttress(Unknown,Unknown)!---
+-Long Tor Quarry(53.124546,-1.559687) (updated 7.5.16)!gsu
+-Lorry Park Quarry(53.132914,-1.558730)!g--
+-Masson Lees(53.128406,-1.573069)!gsu
+-Monk's Buttress(52.995709,-3.165076)-136!g--
+-NPZ(24.1053978070597,55.77218261078312)!g--
+-Nearside Wall(25.896221,56.141206)!g--
+-Ninety Metre(25.80622967726474,56.18246373308175)!g--
+-Nizwa Towers (Unknown,Unknown)!---
+-Outwoods(52.745529,-1.240031)!g--
+xPaul's Secret Boulders(24.09614217810186,55.77156474723904)!xxx
+-Pin Dale Quarry(53.336711,-1.763509)!gsu
+-Ramadan Buttress(25.77875621237232,56.09220842310038)!g--
+-Ravens Tor(53.081914,-1.790477) (Dovedale)!gsu
+-Red Rock(Unknown,Unknown)!---
+xRoadside(Unknown,Unknown)!xxx
+-Rotisserie Stack(25.78709089849409,56.344429867707)!g--
+-Ruwi Slab(Unknown,Unknown)!---
+-Scorpion Buttress(Unknown,Unknown)!
+-Sentinel(25.77843749949748,56.08597380075437)!g--
+-Shady Circus(25.98358881566874,56.16088210405703)!g--
+-Shark Fin(24.11335772259393,56.06245470354709)!g--
+xSit Down-Stoney!xxx
+-Slaley Brook(53.111282,-1.590635) (updated 11.8.17)!gsu
+-Smalldale(53.290781,-1.854761)!gsu
+-Spice Block(Unknown,Unknown)!---
+-Spice World(25.8141437571541,56.18652818798269)!g--
+-Staden Quarry(53.247564,-1.880083) (updated 18.8.16)!g--
+-Stardust(25.9266666666667,56.0802777777778)!g--
+-Stoney Middleton(53.277881,-1.666654)-Stoney!g--
+-Stoney Middleton.Electric Quarry(53.280098,-1.673066)!g--
+-Stoney Middleton.Garage Buttress(53.2775901,-1.6641091) (updated 16.4.18)-Stoney!gsu
+-Stoney West(53.279642,-1.677514)-Stoney!gsu
+-Stoney Wood(53.085428,-1.573569)!g--
+-Tawiyan Crag(25.5852976032984,56.10083970611026)!g--
+-Telegraph Buttress(Unknown,Unknown)!---
+-Telegraph Island(26.195747,56.343461)!g--
+-The Balcony(53.277980,-1.671850)-Stoney-148!g--
+-The Colosseum(25.60960760765192,56.16374987673997)!g--
+-The Cuttings(50.5412,-2.4255)!g--
+-The Play Pen(26.06448122446004,56.43885074192998)!g--
+xThe Ravine!xxx
+-The Roadside Area(25.77636825005857,56.09229490580482)!g--
+-The Threesomes(25.88775768178013,56.13320002246589)!g--
+-The Wendy Walls(Unknown,Unknown)!--
+-Thunder Gorge(25.8526770763762,56.09855224524903)!g--
+-Toms Cave(Unknown,Unknown)-Stoney!--
+-Trident Gorge(25.89018767649461,56.13399507112969)!g--
+-Turkey Dip Rocks(Unknown,Unknown)!--
+-Umq Bir(Unknown,Unknown)!---
+-Umq(Unknown,Unknown)!--
+-UnNamed01(25.82032447723405,56.20992434516924)!g--
+-Wadi Adai(Unknown,Unknown)!---
+-Wadi Al Bidey(25.67215303517027,56.21156857665818)!g--
+-Wadi Bani Awf(Unknown,Unknown)!---
+-Wadi Bani Khalid(Unknown,Unknown)!---
+-Wadi Daykah (Unknown,Unknown)!---
+-Wadi Fins(Unknown,Unknown)!---
+-Wadi Ghalalah(25.97653053977627,56.10871398601888)!g--
+-Wadi Hilti(25.7095152542348,56.23916000119524)!g--
+-Wadi Louab(25.79181616064974,56.19158327913461)!g--
+-Wadi Maih Roadside(Unknown,Unknown)!---
+-Wadi Mayh(Unknown,Unknown)!---
+-Wadi Muaydin(Unknown,Unknown)!---
+-Wadi Nakhar(Unknown,Unknown)!---
+-Wadi Qada Boulders(25.7824448745255,56.08066355923019)!g--
+-Wadi Sal Al A'la(26.02151768994474,56.33703713693518)g--
+-Wadi Shab(Unknown,Unknown)!--
+-Wadi Shur(Unknown,Unknown)!--
+-Wadi Suwayh(Unknown,Unknown)!--
+-Wadi Tanuf(Unknown,Unknown)!--
+-Wadi Tiwi(Unknown,Unknown)!--
+-Warzone(25.79556985089769,56.17528240965593)!g--
+-Water-Cum-Jolly.Central Buttress(53.253937,-1.755266)!gsu
+-Water-Cum-Jolly.Majorca Buttress(53.250550, -1.749260)!gsu
+-Water-Cum-Jolly.Moat Buttress(53.251335,-1.747942)!gsu
+-Water-Cum-Jolly.Rubicon Wall(53.252684,-1.743724)!gsu
+-Water-Cum-Jolly.Swamp Wall(53.251203,-1.751733)!gsu
+-Water-Cum-Jolly.The Cornice(53.252257,-1.752880)!g--
+-Water-Cum-Jolly.Two Tier Buttress(53.252800,-1.752995)(updated 6.7.16)!g--
+-Wolfscote Dale(53.122522,-1.804777) (updated 15.7.17)!gsu
+-Wonderwall(24.07917954594049,56.04844711657173)!g--
+-Yellow House(25.8761143507978,56.10392120493905)!g--
+-Zombie Skull(Unknown,Unknown)!--
