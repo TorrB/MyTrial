@@ -1,4 +1,4 @@
-Changes to LXF
+Changes to LXF - new change
 --------------------
 066 (May 2005) - Firefox - Take Back the Web
 	.Blake ross reveals the secrets of the most successful open source software ever
